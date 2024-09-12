@@ -1,6 +1,6 @@
 # Projects
 This repository, showcases all the projects(private and public) that i've done or involved in.
-1. Anagram game
+##1. Anagram game
    Developed using Java, Python and C plain.
    Java link
    Python link
