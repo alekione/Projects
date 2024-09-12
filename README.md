@@ -1,21 +1,18 @@
-# Projects
+## Project Showcase
 
-This repository, showcases all the projects(private and public) that i've done or involved in.
+This repository highlights various projects (both private and public) that I have developed or contributed to.
 
-1. Anagram game
-   Developed using Java, Python and C plain.
-   Java link
-   Python link
-   C link
+### Anagram Game
+A word puzzle game developed using Java, Python, and C.  
+- [Java version](#)  
+- [Python version](#)  
+- [C version](#)
 
-2. To-do list console application
-   Written in both C plain and Python.
-   more about it can be found here link
-   
-3. TaskMaster
-   A to-do list GUI windows OS application written in python.
-   Available here link
-   
-4. Spendo
-   An expense tracking GUI app written in python.
-   Currently not available for viewing but source code can be submitted on request.
+### To-do List Console Application
+A simple console-based to-do list application written in C and Python. You can learn more about it [here](#).
+
+### TaskMaster
+A to-do list application with a GUI, designed for Windows OS using Python. Available for download [here](#).
+
+### Spendo
+An expense tracking GUI app built in Python. Currently, it’s unavailable for public access, but the source code can be provided upon request.
